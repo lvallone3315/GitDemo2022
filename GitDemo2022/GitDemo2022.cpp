@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello Hailee\n";
     std::cout << "I love pizza\n";
+    std::cout << "I love pizza two\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
