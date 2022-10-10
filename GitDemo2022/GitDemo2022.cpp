@@ -10,7 +10,8 @@ int main()
     std::cout << "I love pizza\n";
     std::cout << "I love pizza two\n";
     std::cout << "another random change\n";
-    std::cout << a 2nd random change\n";
+    std::cout << "a 2nd random change\n";
+    std::cout << "a third random change\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
