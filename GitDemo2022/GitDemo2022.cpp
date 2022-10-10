@@ -13,6 +13,7 @@ int main()
     std::cout << "a 2nd random change\n";
     std::cout << "a third random change\n";
     std::cout << "a really random change\n";
+    std::cout << "a fifth change?\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
